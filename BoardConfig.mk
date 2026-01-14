@@ -47,4 +47,4 @@ TW_HAS_DOWNLOAD_MODE:=true
 TW_NO_REBOOT_BOOTLOADER:=true
 TW_NO_SCREEN_BLANK:=true
 TW_CUSTOM_CPU_TEMP_PATH:=/sys/class/thermal/thermal_zone1/temp
-TW_MTP_DEVICE:=/dev/usb_mtp_gadget
+TW_MTP_DEVICE:=/dev/usb_mtp
